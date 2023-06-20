@@ -1,5 +1,7 @@
 sudo apt-get update && sudo apt-get upgrade
 
+# install PgAdmin
+
 sudo apt install curl
 
 sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
