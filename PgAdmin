@@ -11,3 +11,5 @@ sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_
 sudo apt install pgadmin4
 
 sudo apt upgrade pgadmin4
+
+sudo /usr/pgadmin4/bin/setup-web.sh
